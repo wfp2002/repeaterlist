@@ -100,21 +100,22 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 13;Minas Gerais;Caete;;;;146.950000;DUP-;0.600000;FM;TONE;77.0Hz;YES;Approximate;-19.884767;-43.665500;-3:00
 13;Minas Gerais;Caete;;;;439.950000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-19.884767;-43.665500;-3:00
 13;Minas Gerais;Campo Belo;;;;146.710000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-20.855667;-45.270983;-3:00
+13;Minas Gerais;Cambui;;PY4RRM;;146.790000;DUP-;0.600000;FM;TONE;82.5Hz;YES;Approximate;-22.534583;-45.818683;-3:00
 13;Minas Gerais;Caratinga;;;;146.710000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-19.790367;-42.139300;-3:00
 13;Minas Gerais;Carmo da Mata;;;;146.850000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-20.590783;-44.852100;-3:00
 13;Minas Gerais;Corr d Bom Jesus;;PY4KHB C;PY4KHB G;145.430000;DUP-;0.600000;DV;OFF;88.5Hz;YES;Approximate;-22.688167;-45.955667;-3:00
-13;Minas Gerais;Corr d Bom Jesus;;;;146.790000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.534583;-45.818683;-3:00
-13;Minas Gerais;Corr d Bom Jesus;;;;147.210000;DUP+;0.600000;FM;TONE;67.0Hz;YES;Approximate;-22.630100;-46.019400;-3:00
+13;Minas Gerais;Corr d Bom Jesus;;PY4RSD;;147.210000;DUP+;0.600000;FM;TONE;67.0Hz;YES;Approximate;-22.630100;-46.019400;-3:00
 13;Minas Gerais;Corr d Bom Jesus;;;;438.250000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-22.630100;-46.019400;-3:00
 13;Minas Gerais;Divinopolis;;;;146.750000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-20.145067;-44.891600;-3:00
 13;Minas Gerais;Estiva;;PY4ALV B;PY4ALV G;439.750000;DUP-;5.000000;DV;OFF;88.5Hz;YES;Approximate;-22.422000;-46.003167;-3:00
 13;Minas Gerais;Extrema;;PY4FW;;146.810000;DUP-;0.600000;FM;TONE;82.5Hz;YES;Approximate;-22.880817;-46.307750;-3:00
+13;Minas Gerais;Extrema;;PY4RE;;439.125000;DUP-;5.000000;FM;TONE;91.5Hz;YES;Approximate;-22.880817;-46.307750;-3:00
 13;Minas Gerais;Formiga;;PY4RAB;;145.470000;DUP-;0.600000;FM;TONE;82.5Hz;YES;Approximate;-20.465333;-45.425383;-3:00
 13;Minas Gerais;Gov. Valadares;;;;145.290000;DUP-;0.600000;FM;TONE;82.5Hz;YES;Approximate;-18.850500;-41.948100;-3:00
 13;Minas Gerais;Ipanema;;;;147.090000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-19.874300;-41.722167;-3:00
 13;Minas Gerais;Ipatinga;;;;145.390000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-19.468200;-42.536700;-3:00
 13;Minas Gerais;Ipatinga;;;;147.180000;DUP+;0.600000;FM;TONE;88.5Hz;YES;Approximate;-19.463167;-42.559233;-3:00
-13;Minas Gerais;Itajuba;;;;146.690000;DUP-;0.600000;FM;TONE;97.4Hz;YES;Approximate;-22.426900;-45.452883;-3:00
+13;Minas Gerais;Itajuba;;PY4RIT;;146.690000;DUP-;0.600000;FM;TONE;97.4Hz;YES;Approximate;-22.426900;-45.452883;-3:00
 13;Minas Gerais;Jaboticatubas;;;;147.390000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-19.517083;-43.747600;-3:00
 13;Minas Gerais;Jaboticatubas;;;;439.975000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-19.517083;-43.747600;-3:00
 13;Minas Gerais;Jacutinga;;;;145.410000;DUP-;0.600000;FM;TONE;77.0Hz;YES;Approximate;-22.286300;-46.612300;-3:00
@@ -155,15 +156,22 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 14;Para;Braganca;;;;147.810000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-1.065600;-46.788700;-3:00
 14;Para;Castanhal;;;;147.100000;DUP+;0.600000;FM;TONE;88.5Hz;YES;Approximate;-1.297050;-47.922183;-3:00
 14;Para;Vigia;;;;147.390000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-0.870517;-48.105800;-3:00
-15;Paraiba;Campina Grande;;;;146.250000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-7.230500;-35.881400;-3:00
+15;Paraiba;Campina Grande;QAP LOCA;;;145.000000;OFF;0.000000;FM;OFF;88.5Hz;YES;Approximate;-7.230500;-35.881400;-3:00
+15;Paraiba;Campina Grande;;PR7CD;;146.850000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-7.230500;-35.881400;-3:00
 15;Paraiba;Cuite;;;;147.690000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-6.479100;-36.150783;-3:00
-15;Paraiba;Fagundes;;;;145.330000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-7.459433;-35.779300;-3:00
-15;Paraiba;Guarabira;;;;146.750000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-6.867100;-35.497600;-3:00
-15;Paraiba;Joao Pessoa;;;;146.130000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-7.115250;-34.861000;-3:00
-15;Paraiba;Joao Pessoa;;;;147.000000;DUP+;0.600000;FM;TONE;67.0Hz;YES;Approximate;-7.115250;-34.861000;-3:00
-15;Paraiba;Santa Rita;;;;145.230000;DUP-;0.600000;FM;TONE;88.5Hz;YES;Approximate;-7.114633;-34.982283;-3:00
+15;Paraiba;Fagundes;;PR7CG;;145.330000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-7.459433;-35.779300;-3:00
+15;Paraiba;Guarabira;;PR7GRG;;146.750000;DUP-;0.600000;FM;TONE;88.5Hz;YES;Approximate;-6.867100;-35.497600;-3:00
+15;Paraiba;Gurinhem;;PR7CK;;147.150000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-7.187000;-35.406000;-3:00
+15;Paraiba;Joao Pessoa;QAP LOC.;;;145.500000;OFF;0.000000;FM;TONE;67.0Hz;YES;Approximate;-7.115250;-34.861000;-3:00
+15;Paraiba;Joao Pessoa;;PR7JPA;;147.300000;DUP+;0.600000;FM;TONE;110.9Hz;YES;Approximate;-7.115250;-34.861000;-3:00
+15;Paraiba;Joao Pessoa;LABRE;PR7AAA;;147.000000;DUP+;0.600000;FM;TONE;67.0Hz;YES;Approximate;-7.115250;-34.861000;-3:00
+15;Paraiba;Joao Pessoa;;PR7JPB;;439.500000;DUP-;5.000000;FM;TONE;110.9Hz;YES;Approximate;-7.115250;-34.861000;-3:00
+15;Paraiba;Matureia;;PR7PIJ;;147.390000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-7.339000;-37.375000;-3:00
+15;Paraiba;Monteiro;;PR7DA;;145.490000;DUP-;0.600000;FM;TONE;123.0Hz;YES;Approximate;-7.859167;-37.117667;-3:00
+15;Paraiba;Santa Rita;;PR7SR;;145.230000;DUP-;0.600000;FM;TONE;88.5Hz;YES;Approximate;-7.114633;-34.982283;-3:00
+15;Paraiba;Solanea;;PR7JAS;;146.910000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-6.757167;-35.654667;-3:00
 16;Parana;Morretes;;PY5MOR;;145.250000;DUP-;0.600000;FM;TONE;110.9Hz;YES;Approximate;-25.479000;-48.831683;-3:00
-16;Parana;Guaratuba;;PY5HAM;;145.410000;DUP-;0.600000;FM;TONE;110.9Hz;YES;Approximate;-24.887667;-48.952500;-3:00
+16;Parana;Guaratuba;;PY5HAM;;145.370000;DUP-;0.600000;FM;TONE;110.9Hz;YES;Approximate;-25.887333;-48.557667;-3:00
 16;Parana;Colombo;;PY5COL;;146.670000;DUP-;0.600000;FM;TONE;110.9Hz;YES;Approximate;-25.267000;-49.220833;-3:00
 16;Parana;Curitiba;;PY5TEL;;146.770000;DUP-;0.600000;FM;TONE;110.9Hz;YES;Approximate;-25.440000;-49.276683;-3:00
 16;Parana;Curitiba;;PY5STC;;147.000000;DUP+;0.600000;FM;TONE;82.5Hz;YES;Approximate;-25.440000;-49.276683;-3:00
@@ -171,12 +179,12 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 16;Parana;Campo Magro;;PY5PRD;;147.090000;DUP+;0.600000;FM;TONE;110.9Hz;YES;Approximate;-25.383833;-49.361833;-3:00
 16;Parana;Almirante Tamand;;PY5ART;;147.210000;DUP+;0.600000;FM;TONE;67.0Hz;YES;Approximate;-25.273667;-49.322333;-3:00
 16;Parana;Curitiba;;PY5EHO;;147.390000;DUP+;0.600000;FM;TONE;123.0Hz;YES;Approximate;-25.392500;-49.240333;-3:00
-16;Parana;Carambei;;PY5BBS;;439.500000;DUP-;5.000000;FM;TONE;110.9Hz;YES;Approximate;-24.911800;-50.108283;-3:00
+16;Parana;Campina G do Sul;;PY5BBS;;439.650000;DUP-;5.000000;FM;TONE;110.9Hz;YES;Approximate;-25.040167;-48.992333;-3:00
 16;Parana;Andira;;;;146.180000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-23.045783;-50.231600;-3:00
 16;Parana;Apiai;;;;146.610000;DUP-;0.600000;FM;TONE;91.5Hz;YES;Approximate;-24.513583;-48.843883;-3:00
 16;Parana;Apucarana;;PY5APU;;146.770000;DUP-;0.600000;FM;TONE;88.5Hz;YES;Approximate;-23.548583;-51.459167;-3:00
 16;Parana;Balsa Nova;;;;146.970000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-25.536367;-49.204100;-3:00
-16;Parana;Campina G do Sul;;PY5CTV;;145.210000;DUP-;0.600000;FM;TONE;110.9Hz;YES;Approximate;-25.306667;-49.052700;-3:00
+16;Parana;Caratuva;;PY5CTV;;145.210000;DUP-;0.600000;FM;TONE;110.9Hz;YES;Approximate;-25.238000;-48.824333;-3:00
 16;Parana;Campina G do Sul;;;;145.490000;DUP-;0.600000;FM;TONE;110.9Hz;YES;Approximate;-25.306667;-49.052700;-3:00
 16;Parana;Carambei;;;;146.050000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-24.911800;-50.108283;-3:00
 16;Parana;Carlopolis;;PY5VET;;145.430000;DUP-;0.600000;FM;TONE;88.5Hz;YES;Approximate;-23.431100;-49.720817;-3:00
@@ -184,7 +192,6 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 16;Parana;Cornel. Procopio;;PY5CPR;;145.470000;DUP-;0.600000;FM;TONE;88.5Hz;YES;Approximate;-23.182183;-50.650817;-3:00
 16;Parana;Cornel. Procopio;;;;145.470000;DUP-;0.600000;FM;TONE;85.4Hz;YES;Approximate;-23.181100;-50.646700;-3:00
 16;Parana;Curitiba;;;;145.450000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-25.440000;-49.276683;-3:00
-16;Parana;Curitiba;;;;146.340000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-25.440000;-49.276683;-3:00
 16;Parana;Curitiba;;;;147.690000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-25.440000;-49.276683;-3:00
 16;Parana;Curitiba;;;;438.900000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-25.440000;-49.276683;-3:00
 16;Parana;Guaratuba;;;;146.040000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-25.883800;-48.576167;-3:00
@@ -206,20 +213,25 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 16;Parana;Ribeirao Claro;;;;145.430000;DUP-;0.600000;FM;TONE;88.5Hz;YES;Approximate;-23.287900;-49.758700;-3:00
 16;Parana;Umuarama;;PY5FAB;;147.210000;DUP+;0.600000;FM;TONE;88.5Hz;YES;Approximate;-23.762183;-53.329433;-3:00
 16;Parana;Umuarama;;PY5AMZ;;439.750000;DUP-;5.000000;FM;TONE;91.5Hz;YES;Approximate;-23.742167;-53.307500;-3:00
+17;Pernambuco;Barreiros;;PY7BMC;;146.970000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-8.809167;-35.189333;-3:00
 17;Pernambuco;Escada;;;;147.660000;DUP-;0.600000;FM;TONE;88.5Hz;YES;Approximate;-8.358900;-35.223983;-3:00
 17;Pernambuco;Garanhuns;;;;146.790000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-8.890633;-36.496600;-3:00
 17;Pernambuco;Garanhuns;;;;147.930000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-8.890633;-36.496600;-3:00
 17;Pernambuco;Jab. dos Guarar.;;;;439.650000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-8.112050;-35.015567;-3:00
-17;Pernambuco;Macaparana;;;;147.840000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-7.529667;-35.461100;-3:00
+17;Pernambuco;Joao Alfredo;;PY7CT;;146.630000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-7.841667;-35.589500;-3:00
+17;Pernambuco;Macaparana;;PY7JMN;;147.240000;DUP+;0.600000;FM;TONE;100.0Hz;YES;Approximate;-7.529667;-35.461100;-3:00
 17;Pernambuco;Olinda;;;;147.210000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-7.991050;-34.854983;-3:00
+17;Pernambuco;Olinda;;;;439.750000;DUP-;5.000000;FM;TONE;100.0Hz;YES;Approximate;-7.991050;-34.854983;-3:00
 17;Pernambuco;Recife;;;;146.910000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-8.055350;-34.872000;-3:00
 17;Pernambuco;Riacho das Almas;;;;145.450000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-8.145533;-35.860900;-3:00
 17;Pernambuco;Riacho das Almas;;;;147.660000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-8.145533;-35.860900;-3:00
 17;Pernambuco;Riacho das Almas;;;;439.900000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-8.145533;-35.860900;-3:00
 17;Pernambuco;Sao Caetano;;;;145.290000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-8.331633;-36.142600;-3:00
 17;Pernambuco;Sao Caetano;;;;145.390000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-8.055350;-34.872000;-3:00
+17;Pernambuco;Sao Lourenco da;;PY7AZ;;146.890000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-8.021500;-35.101167;-3:00
 17;Pernambuco;Taquaritinga d N;;;;146.110000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-7.834100;-36.099300;-3:00
 17;Pernambuco;Taquaritinga d N;;;;147.870000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-7.834100;-36.099300;-3:00
+17;Pernambuco;Taquaritinga d N;;PY7AK;;439.950000;DUP-;5.000000;FM;TONE;100.0Hz;YES;Approximate;-7.834100;-36.099300;-3:00
 18;Piaui;Batalha;;;;146.910000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-4.119400;-42.131400;-3:00
 18;Piaui;Pedro II;;;;145.210000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-4.423883;-41.490283;-3:00
 18;Piaui;Piripiri;;;;145.390000;DUP-;0.600000;FM;TONE;123.0Hz;YES;Approximate;-4.273333;-41.777983;-3:00
@@ -249,12 +261,13 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 19;Rio de Janeiro;Macae;;;;146.650000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.371783;-41.785700;-3:00
 19;Rio de Janeiro;Macae;;;;147.100000;DUP+;0.600000;FM;TONE;88.5Hz;YES;Approximate;-22.383683;-41.782733;-3:00
 19;Rio de Janeiro;Marica;;;;147.390000;DUP+;0.600000;FM;TONE;131.8Hz;YES;Approximate;-22.918167;-42.818500;-3:00
+19;Rio de Janeiro;Medanha;;PY1MDU;;439.025000;DUP-;5.000000;FM;TONE;100.0Hz;YES;Approximate;-22.824000;-43.523333;-3:00
+19;Rio de Janeiro;Medanha;;;;146.890000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-22.824000;-43.523333;-3:00
 19;Rio de Janeiro;Miguel Pereira;;PY1MPM;;145.210000;DUP-;0.600000;FM;TONE;88.5Hz;YES;Approximate;-22.472000;-43.460600;-3:00
-19;Rio de Janeiro;Miguel Pereira;;;;146.970000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.472000;-43.460600;-3:00
 19;Rio de Janeiro;Nilopolis;;PY1NIL;;147.000000;DUP+;0.600000;FM;TONE;88.5Hz;YES;Approximate;-22.809833;-43.419383;-3:00
-19;Rio de Janeiro;Niteroi;;;;145.370000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.880800;-43.103900;-3:00
+19;Rio de Janeiro;Niteroi;;PY1LJU;;146.850000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-22.880800;-43.103900;-3:00
 19;Rio de Janeiro;Niteroi;;PY1PKA;;146.690000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-22.880683;-43.101333;-3:00
-19;Rio de Janeiro;Niteroi;;;;146.870000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-22.880800;-43.103900;-3:00
+19;Rio de Janeiro;Niteroi;;PY1NIT;;146.870000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-22.880800;-43.103900;-3:00
 19;Rio de Janeiro;Niteroi;;;;439.150000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-22.880800;-43.103900;-3:00
 19;Rio de Janeiro;Niteroi;;;;439.300000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-22.880800;-43.103900;-3:00
 19;Rio de Janeiro;Niteroi;;;;439.975000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-22.880800;-43.103900;-3:00
@@ -263,15 +276,16 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 19;Rio de Janeiro;Niteroi;;PY1GUN;;439.825000;DUP-;5.000000;FM;TONE;100.0Hz;YES;Approximate;-22.880683;-43.101333;-3:00
 19;Rio de Janeiro;Niteroi;;PY1UUS;;439.450000;DUP-;5.000000;FM;TONE;100.0Hz;YES;Approximate;-22.880800;-43.103900;-3:00
 19;Rio de Janeiro;Niteroi;;;;439.225000;DUP-;5.000000;FM;TONE;100.0Hz;YES;Approximate;-22.880683;-43.101333;-3:00
-19;Rio de Janeiro;Niteroi;;;;439.775000;DUP-;5.000000;FM;TONE;100.0Hz;YES;Approximate;-22.511233;-43.177917;-3:00
+19;Rio de Janeiro;Niteroi;;PY1GRU;;439.775000;DUP-;5.000000;FM;TONE;100.0Hz;YES;Approximate;-22.511233;-43.177917;-3:00
 19;Rio de Janeiro;Nova Friburgo;;PY1FCT C;PY1FCT G;145.410000;DUP-;0.600000;DV;OFF;88.5Hz;YES;Approximate;-22.355550;-42.588833;-3:00
-19;Rio de Janeiro;Nova Friburgo;;;;145.470000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.288717;-42.534033;-3:00
+19;Rio de Janeiro;Nova Friburgo;;PY1APG;;145.470000;DUP-;0.600000;FM;TONE;71.9Hz;YES;Approximate;-22.288717;-42.534033;-3:00
 19;Rio de Janeiro;Nova Friburgo;;;;146.670000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.282283;-42.534183;-3:00
 19;Rio de Janeiro;Nova Friburgo;;;;146.770000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.976667;-43.195083;-3:00
-19;Rio de Janeiro;Nova Friburgo;;;;147.180000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.282283;-42.534183;-3:00
+19;Rio de Janeiro;Nova Friburgo;;PY1RNF;;147.180000;DUP+;0.600000;FM;TONE;71.9Hz;YES;Approximate;-22.282283;-42.534183;-3:00
 19;Rio de Janeiro;Nova Friburgo;;;;145.350000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.282283;-42.534183;-3:00
 19;Rio de Janeiro;Nova Friburgo;;PY1GRA;;146.610000;DUP-;0.600000;FM;TONE;71.9Hz;YES;Approximate;-22.351217;-42.586467;-3:00
 19;Rio de Janeiro;Nova Friburgo;;;;439.075000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-22.282283;-42.534183;-3:00
+19;Rio de Janeiro;Nova Friburgo;MULTIMOD;PY1CRF B;PY1CRF G;439.275000;DUP-;5.000000;DV;OFF;88.5Hz;YES;Approximate;-22.282283;-42.534183;-3:00
 19;Rio de Janeiro;Nova Friburgo;;;;439.900000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-22.282283;-42.534183;-3:00
 19;Rio de Janeiro;Nova Friburgo;;;;439.500000;DUP-;5.000000;FM;TONE;100.0Hz;YES;Approximate;-22.529683;-42.984500;-3:00
 19;Rio de Janeiro;Paraty;GRAM;PY1MBU;;145.230000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-23.216667;-44.717967;-3:00
@@ -281,7 +295,7 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 19;Rio de Janeiro;Petropolis;;PY1LRP;;147.330000;DUP+;0.600000;FM;TONE;71.9Hz;YES;Approximate;-22.504100;-43.181900;-3:00
 19;Rio de Janeiro;Petropolis;;PY1AAF;;145.490000;DUP-;0.600000;FM;TONE;110.9Hz;YES;Approximate;-22.504100;-43.181900;-3:00
 19;Rio de Janeiro;Petropolis;;PY1RRE;;439.325000;DUP-;5.000000;FM;TONE;100.0Hz;YES;Approximate;-22.504100;-43.181900;-3:00
-19;Rio de Janeiro;Resende;;;;147.000000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.470500;-44.450500;-3:00
+19;Rio de Janeiro;Resende;;PY1EBU;;147.000000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.470500;-44.450500;-3:00
 19;Rio de Janeiro;Resende;;;;147.300000;DUP+;0.600000;FM;TONE;192.8Hz;YES;Approximate;-22.470500;-44.450500;-3:00
 19;Rio de Janeiro;Rio de Janeiro;;PY1CEU C;PY1GEU G;146.750000;DUP-;0.600000;DV;OFF;88.5Hz;YES;Approximate;-22.976667;-43.195083;-3:00
 19;Rio de Janeiro;Rio de Janeiro;;;;146.810000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.976667;-43.195083;-3:00
@@ -295,14 +309,14 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 19;Rio de Janeiro;Rio de Janeiro;;;;439.900000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-22.976667;-43.195083;-3:00
 19;Rio de Janeiro;S Pedro daAldeia;;PY1UEB;;147.240000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.880800;-43.103900;-3:00
 19;Rio de Janeiro;Sao Fidelis;;;;147.390000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-21.642900;-41.758567;-3:00
-19;Rio de Janeiro;Sao Goncalo;;;;146.710000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.796683;-43.039183;-3:00
+19;Rio de Janeiro;Sao Goncalo;LABRE;;;146.630000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-22.796683;-43.039183;-3:00
 19;Rio de Janeiro;Sao Joao dMeriti;;;;147.380000;DUP+;0.600000;FM;TONE;103.5Hz;YES;Approximate;-22.790800;-43.369933;-3:00
 19;Rio de Janeiro;Saquarema;;;;147.060000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.930783;-42.496383;-3:00
 19;Rio de Janeiro;Sta Maria Madal.;;;;146.810000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-21.970100;-41.999267;-3:00
 19;Rio de Janeiro;Teresopolis;;;;146.630000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.412383;-42.966700;-3:00
 19;Rio de Janeiro;Teresopolis;;PY1TPS;;146.650000;DUP-;0.600000;FM;TONE;69.3Hz;YES;Approximate;-22.412383;-42.966700;-3:00
 19;Rio de Janeiro;Teresopolis;;;;147.090000;DUP+;0.600000;FM;TONE;67.0Hz;YES;Approximate;-22.412383;-42.966700;-3:00
-19;Rio de Janeiro;Teresopolis;;;;146.830000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-22.529683;-42.984500;-3:00
+19;Rio de Janeiro;Teresopolis;;PY1SVL;;146.830000;DUP-;0.600000;FM;TONE;100.0Hz;YES;Approximate;-22.529683;-42.984500;-3:00
 19;Rio de Janeiro;Teresopolis;;;;439.650000;DUP-;5.000000;FM;TONE;100.0Hz;YES;Approximate;-22.412383;-42.966700;-3:00
 19;Rio de Janeiro;Tres Rios;;;;147.180000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.118283;-43.209200;-3:00
 19;Rio de Janeiro;Valenca;;;;146.910000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.246267;-43.703483;-3:00
@@ -316,7 +330,7 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 20;Rio Gr. do Norte;Mossoro;;;;144.900000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-5.187950;-37.344100;-3:00
 20;Rio Gr. do Norte;Natal;;;;145.290000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-6.057400;-36.354900;-3:00
 20;Rio Gr. do Norte;Natal;;;;146.010000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-5.794767;-35.211200;-3:00
-20;Rio Gr. do Norte;Serra de S Bento;;;;145.210000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-6.422150;-35.721083;-3:00
+20;Rio Gr. do Norte;Serra de S Bento;;PS7GRN;;145.210000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-6.422150;-35.721083;-3:00
 20;Rio Gr. do Norte;Serra do Mel;;;;146.210000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-5.208600;-37.055400;-3:00
 21;Rio Gr. do Sul;Bento Goncalves;;;;145.270000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-29.174283;-51.518500;-3:00
 21;Rio Gr. do Sul;Camaqua;;;;146.130000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-30.850200;-51.812500;-3:00
@@ -421,13 +435,18 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 25;Sao Paulo;Birigui;;;;147.300000;DUP+;0.600000;FM;TONE;100.0Hz;YES;Approximate;-21.303483;-50.382300;-3:00
 25;Sao Paulo;Botucatu;;PY2KDK;;145.450000;DUP-;0.600000;FM;TONE;77.0Hz;YES;Approximate;-22.893333;-48.488933;-3:00
 25;Sao Paulo;Botucatu;;PY2KDL;;439.400000;DUP-;5.000000;FM;TONE;77.0Hz;YES;Approximate;-22.893333;-48.488933;-3:00
+25;Sao Paulo;Botucatu;;PY2BJO;;439.650000;DUP-;5.000000;FM;TONE;123.0Hz;YES;Approximate;-22.893333;-48.488933;-3:00
 25;Sao Paulo;Braganca Paulist;;PY2KGL;;439.975000;DUP-;5.000000;FM;TONE;91.5Hz;YES;Approximate;-22.928600;-46.477183;-3:00
-25;Sao Paulo;Cabreuva;;;;145.270000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-23.305900;-47.131900;-3:00
-25;Sao Paulo;Cajati;;;;145.470000;DUP-;0.600000;FM;TONE;67.0Hz;YES;Approximate;-24.730017;-48.108233;-3:00
+25;Sao Paulo;Cabreuva;;PY2KSC;;145.270000;DUP-;0.600000;FM;TONE;123.0Hz;YES;Approximate;-23.305900;-47.131900;-3:00
+25;Sao Paulo;Cabreuva;HIBRIDA;;;146.670000;DUP-;0.600000;FM;TSQL;71.9Hz;YES;Approximate;-23.305900;-47.131900;-3:00
+25;Sao Paulo;Cabreuva;;;;146.970000;DUP-;0.600000;FM;TONE;123.0Hz;YES;Approximate;-23.305900;-47.131900;-3:00
+25;Sao Paulo;Cabreuva;;;;439.750000;DUP-;5.000000;FM;TONE;123.0Hz;YES;Approximate;-23.305900;-47.131900;-3:00
+25;Sao Paulo;Cajati;;PY2KEV;;145.470000;DUP-;0.600000;FM;TONE;123.0Hz;YES;Approximate;-24.730017;-48.108233;-3:00
 25;Sao Paulo;Campinas;;PY2KAA;;146.870000;DUP-;0.600000;FM;TONE;82.5Hz;YES;Approximate;-22.890300;-47.166667;-3:00
 25;Sao Paulo;Campinas;;PY2TIA B;PY2TIA G;439.600000;DUP-;5.000000;DV;OFF;88.5Hz;YES;Approximate;-22.871383;-47.049167;-3:00
 25;Sao Paulo;Campinas;;PY2KKK;;439.500000;DUP-;5.000000;FM;TONE;82.5Hz;YES;Approximate;-22.890300;-47.166667;-3:00
 25;Sao Paulo;Campinas;;PY2KFI;;439.800000;DUP-;5.000000;FM;TONE;79.7Hz;YES;Approximate;-22.890300;-47.166667;-3:00
+25;Sao Paulo;Campos do Jordao;;PY2KAS;;439.225000;DUP-;5.000000;FM;TONE;79.7Hz;YES;Approximate;-22.738167;-45.584833;-3:00
 25;Sao Paulo;Cubatao;;;;146.770000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-23.892583;-46.428183;-3:00
 25;Sao Paulo;Duartina;;PY2KGI;;146.770000;DUP-;0.600000;FM;TONE;77.0Hz;YES;Approximate;-22.425817;-49.410533;-3:00
 25;Sao Paulo;Duartina;;PY2KJH;;439.150000;DUP-;5.000000;FM;TONE;88.5Hz;YES;Approximate;-22.425817;-49.410533;-3:00
@@ -480,7 +499,7 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 25;Sao Paulo;Pindamonhangaba;;PY2KAS C;PY2KAS G;146.930000;DUP-;0.600000;DV;OFF;88.5Hz;YES;Approximate;-22.768333;-45.517733;-3:00
 25;Sao Paulo;Pindamonhangaba;;;;146.790000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-23.649467;-47.573383;-3:00
 25;Sao Paulo;Pindamonhangaba;;PY2KAS;;146.890000;DUP-;0.600000;FM;TONE;79.7Hz;YES;Approximate;-22.930000;-45.462100;-3:00
-25;Sao Paulo;Pindamonhangaba;;;;439.850000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-22.930000;-45.462100;-3:00
+25;Sao Paulo;Pindamonhangaba;;PY2KAS U;;439.850000;DUP-;5.000000;FM;TONE;79.7Hz;YES;Approximate;-22.930000;-45.462100;-3:00
 25;Sao Paulo;Piquete;;;;146.710000;DUP-;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.617700;-45.172267;-3:00
 25;Sao Paulo;Piquete;;;;147.150000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-22.617700;-45.172267;-3:00
 25;Sao Paulo;Piracicaba;;PY2KGD;;146.630000;DUP-;0.600000;FM;TONE;77.0Hz;YES;Approximate;-22.725383;-47.647800;-3:00
@@ -524,6 +543,7 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 25;Sao Paulo;Sta Rita Passa 4;;PY2KSR;;145.210000;DUP-;0.600000;FM;TONE;74.4Hz;YES;Approximate;-21.705917;-47.479667;-3:00
 25;Sao Paulo;Sta Rita Passa 4;;;;438.200000;DUP-;5.000000;FM;OFF;88.5Hz;YES;Approximate;-21.731183;-47.495883;-3:00
 25;Sao Paulo;Taubate;;;;146.770000;DUP-;0.600000;FM;TONE;71.9Hz;YES;Approximate;-23.032167;-45.560367;-3:00
+25;Sao Paulo;Taubate;DEF CIVI;;;439.175000;DUP-;5.000000;FM;TONE;127.3Hz;YES;Approximate;-23.032167;-45.560367;-3:00
 25;Sao Paulo;Taubate;;;;439.950000;DUP-;5.000000;FM;TONE;71.9Hz;YES;Approximate;-23.032167;-45.560367;-3:00
 25;Sao Paulo;Valinhos;;PY2KVL B;PY2KVL G;439.725000;DUP-;5.000000;DV;OFF;88.5Hz;YES;Approximate;-22.968000;-46.952333;-3:00
 25;Sao Paulo;Valinhos;ANALOGIC;PY2KVL;;439.725000;DUP-;5.000000;FM;TSQL;91.5Hz;YES;Approximate;-22.968000;-46.952333;-3:00
@@ -554,6 +574,3 @@ Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency
 26;Sergipe;Sto Amaro Brotas;;;;146.330000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-10.770283;-37.047767;-3:00
 26;Sergipe;Tobias Barreto;;;;147.150000;DUP+;0.600000;FM;TONE;151.4Hz;YES;Approximate;-11.183833;-37.998333;-3:00
 27;Tocantins;Palmas;;;;146.230000;DUP+;0.600000;FM;OFF;88.5Hz;YES;Approximate;-10.168383;-48.331183;-3:00
-30;HotSpot;ZumSpot;PU2PYC;PU2PYC B;PU2PYC G;430.000000;DUP-;0.000000;DV;OFF;88.5Hz;YES;Exact;-23.629167;-46.946167;-3:00
-30;HotSpot;JumboSpot;PU2PYC;PU2PYC C;PU2PYC G;147.900000;DUP-;0.000000;DV;OFF;88.5Hz;YES;Exact;-23.629167;-46.946167;-3:00
-30;HotSpot;HS Michel;PU2LZL;PU2LZL B;PU2LZL G;439.900000;DUP-;0.000000;DV;OFF;88.5Hz;YES;Exact;-23.635333;-46.802333;-3:00
